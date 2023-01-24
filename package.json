@@ -4,12 +4,13 @@
   "description": "install sass",
   "main": "index.js",
   "dependencies": {
-    "node-sass": "^4.12.0",
     "popper.js": "^1.15.0",
     "sass": "^1.22.9",
     "scss": "^0.2.4"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "node-sass": "^8.0.0"
+  },
   "scripts": {
     "compile:sass": "node-sass scss/styles.scss css/styles.css -w"
   },
