@@ -30,7 +30,7 @@
   }
 }
 #hometab .tabs .nav-tabs .nav-item .nav-link .tab-title {
-  font: 400 14px/20px Poppins, Helvetica, sans-serif;
+  font: 400 14px/20px Oswald, Helvetica, sans-serif;
   text-transform: uppercase;
 }
 #hometab .tabs .nav-tabs .nav-item .nav-link.active, #hometab .tabs .nav-tabs .nav-item .nav-link:hover {
@@ -341,7 +341,7 @@
   }
 }
 .products .product-layouts .product-thumb .thumb-description .price .regular-price {
-  font: 500 18px/20px Poppins, Helvetica, sans-serif;
+  font: 500 18px/20px Oswald, Helvetica, sans-serif;
   color: #000;
 }
 @media (max-width: 543px) {
@@ -350,7 +350,7 @@
   }
 }
 .products .product-layouts .product-thumb .thumb-description .price .old-price {
-  font: 300 14px/20px Poppins, Helvetica, sans-serif;
+  font: 300 14px/20px Oswald, Helvetica, sans-serif;
   color: #666;
   text-decoration: line-through;
 }
@@ -527,12 +527,12 @@
   margin: 0;
 }
 .product_view .modal-dialog .modal-content .modal-body .product_content .price .regular-price {
-  font: 500 18px/20px Poppins, Helvetica, sans-serif;
+  font: 500 18px/20px Oswald, Helvetica, sans-serif;
   color: #000;
   margin: 0 5px 0 0;
 }
 .product_view .modal-dialog .modal-content .modal-body .product_content .price .old-price {
-  font: 300 14px/20px Poppins, Helvetica, sans-serif;
+  font: 300 14px/20px Oswald, Helvetica, sans-serif;
   color: #666;
   text-decoration: line-through;
 }
@@ -586,7 +586,7 @@
 .description {
   float: left;
   width: 100%;
-  font: 400 13px/22px Poppins, Helvetica, sans-serif;
+  font: 400 13px/22px Oswald, Helvetica, sans-serif;
   color: #666;
 }
 
@@ -851,18 +851,18 @@
   width: 100%;
 }
 #ttcmstestimonial .tttestimonial-content .tttestimonial-inner .tttestimonial div .testimonial-block .testimonial-user-title h4 {
-  font: 400 16px/20px Poppins, Helvetica, sans-serif;
+  font: 400 16px/20px Oswald, Helvetica, sans-serif;
   text-transform: uppercase;
   letter-spacing: 1.4px;
   color: #fff;
   margin: 0 0 6px;
 }
 #ttcmstestimonial .tttestimonial-content .tttestimonial-inner .tttestimonial div .testimonial-block .testimonial-user-title .user-designation {
-  font: 400 14px/18px Poppins, Helvetica, sans-serif;
+  font: 400 14px/18px Oswald, Helvetica, sans-serif;
   color: #fff;
 }
 #ttcmstestimonial .tttestimonial-content .tttestimonial-inner .tttestimonial div .testimonial-block .testimonial-content .testimonial-desc {
-  font: italic 400 14px/20px Poppins, Helvetica, sans-serif;
+  font: italic 400 14px/20px Oswald, Helvetica, sans-serif;
   color: #fff;
   padding: 0 9%;
   text-align: center;
@@ -1358,12 +1358,12 @@
 #ttsmartblog .container .smartblog-content .ttblog .item .blog-content-wrap .blog_inner .blog-desc {
   float: left;
   width: 100%;
-  font: 400 14px/20px Poppins, Helvetica, sans-serif;
+  font: 400 14px/20px Oswald, Helvetica, sans-serif;
   color: #666;
   margin: 0 0 15px;
 }
 #ttsmartblog .container .smartblog-content .ttblog .item .blog-content-wrap .blog_inner .read-more a {
-  font: 400 14px/16px Poppins, Helvetica, sans-serif;
+  font: 400 14px/16px Oswald, Helvetica, sans-serif;
 }
 
 /*----- start banner css -----*/
@@ -1540,7 +1540,7 @@
   height: 1px;
 }
 #ttcmsbanner .ttbanner .ttbanner-inner .ttbanner-desc .subtitle {
-  font: 400 16px/20px Poppins, Helvetica, sans-serif;
+  font: 400 16px/20px Oswald, Helvetica, sans-serif;
   color: #000;
 }
 @media (max-width: 991px) {
@@ -1768,13 +1768,13 @@
   border-radius: 0;
   height: 42px;
   font-size: 14px;
-  font-family: Poppins, Helvetica, sans-serif;
+  font-family: Oswald, Helvetica, sans-serif;
 }
 .block-newsletter .parallax .block-content .input-group .input-group-btn .btn-theme {
   border: none;
   border-radius: 0;
   padding: 13px 20px;
-  font: 500 14px/16px Poppins, Helvetica, sans-serif;
+  font: 500 14px/16px Oswald, Helvetica, sans-serif;
 }
 
 .page-footer {
@@ -1869,7 +1869,7 @@
   }
 }
 .page-footer .footer-column li a {
-  font: 400 13px/28px Poppins, Helvetica, sans-serif;
+  font: 400 13px/28px Oswald, Helvetica, sans-serif;
   color: #aaaaaa;
   text-decoration: none;
   text-transform: capitalize;
@@ -1933,7 +1933,7 @@
 }
 .page-footer .footer-column .footer-desc {
   color: #aaaaaa;
-  font: 400 13px/22px Poppins, Helvetica, sans-serif;
+  font: 400 13px/22px Oswald, Helvetica, sans-serif;
   margin: 25px 0 0;
 }
 @media (max-width: 991px) {
@@ -2152,12 +2152,12 @@
   margin: 0 0 5px;
 }
 #cart-pop .modal-dialog .modal-content .modal-body .price .regular-price {
-  font: 500 18px/20px Poppins, Helvetica, sans-serif;
+  font: 500 18px/20px Oswald, Helvetica, sans-serif;
   margin: 0 10px 0 0;
   color: #000;
 }
 #cart-pop .modal-dialog .modal-content .modal-body .price .old-price {
-  font: 300 14px/20px Poppins, Helvetica, sans-serif;
+  font: 300 14px/20px Oswald, Helvetica, sans-serif;
   text-decoration: line-through;
 }
 #cart-pop .modal-dialog .modal-content .modal-body .cart-content-btn form {
@@ -2638,7 +2638,7 @@ a:hover {
   max-width: 1170px !important;
 }
 #about-us .main-content #about-main-1 .col-right .title {
-  font: 500 16px/24px Poppins, Helvetica, sans-serif;
+  font: 500 16px/24px Oswald, Helvetica, sans-serif;
   color: #000;
 }
 #about-us .main-content #about-main-1 .col-right .desc {
@@ -2669,7 +2669,7 @@ a:hover {
   }
 }
 #about-us .main-content #about-main-2 .col-right .subtitle {
-  font: 500 14px/20px Poppins, Helvetica, sans-serif;
+  font: 500 14px/20px Oswald, Helvetica, sans-serif;
   color: #000;
 }
 #about-us .main-content #about-main-3 .about-us-team .team-block {
@@ -2812,7 +2812,7 @@ a:hover {
   margin: 0 0 10px;
 }
 .block-category .title-category {
-  font: 400 18px/24px Poppins, Helvetica, sans-serif;
+  font: 400 18px/24px Oswald, Helvetica, sans-serif;
   color: #000;
   margin: 0 0 10px;
 }
@@ -2978,7 +2978,7 @@ a:hover {
   opacity: 1;
 }
 .tab-content .tab-pane#list .thumb-description .description {
-  font: 400 14px/22px Poppins, Helvetica, sans-serif;
+  font: 400 14px/22px Oswald, Helvetica, sans-serif;
   color: #666;
   float: left;
   width: 100%;
@@ -3071,7 +3071,7 @@ nav .breadcrumb {
   }
 }
 nav .breadcrumb li {
-  font: 400 18px/30px Poppins, Helvetica, sans-serif;
+  font: 400 18px/30px Oswald, Helvetica, sans-serif;
   color: #fff;
 }
 @media (max-width: 543px) {
@@ -3102,7 +3102,7 @@ nav .breadcrumb li.breadcrumb-item + .breadcrumb-item:before {
 @media (max-width: 991px) {
   .main-content .sidebar .left-sidebar .title a, .main-content .sidebar .left-sidebar-canvas .title a, .main-content .sidebar-canvas .left-sidebar .title a, .main-content .sidebar-canvas .left-sidebar-canvas .title a, .main-content .filter-toggle .left-sidebar .title a, .main-content .filter-toggle .left-sidebar-canvas .title a {
     color: #000;
-    font: 500 18px/20px Poppins, Helvetica, sans-serif;
+    font: 500 18px/20px Oswald, Helvetica, sans-serif;
   }
 }
 @media (max-width: 543px) {
@@ -3151,7 +3151,7 @@ nav .breadcrumb li.breadcrumb-item + .breadcrumb-item:before {
   padding-bottom: 0;
 }
 .main-content .sidebar .left-sidebar #sidebar-main .sidebar-block .widget-title, .main-content .sidebar .left-sidebar-canvas #sidebar-main .sidebar-block .widget-title, .main-content .sidebar-canvas .left-sidebar #sidebar-main .sidebar-block .widget-title, .main-content .sidebar-canvas .left-sidebar-canvas #sidebar-main .sidebar-block .widget-title, .main-content .filter-toggle .left-sidebar #sidebar-main .sidebar-block .widget-title, .main-content .filter-toggle .left-sidebar-canvas #sidebar-main .sidebar-block .widget-title {
-  font: 500 18px/20px Poppins, Helvetica, sans-serif;
+  font: 500 18px/20px Oswald, Helvetica, sans-serif;
   text-align: left;
   position: relative;
   margin: 0;
@@ -3228,7 +3228,7 @@ nav .breadcrumb li.breadcrumb-item + .breadcrumb-item:before {
   border-color: #000;
 }
 .main-content .sidebar .left-sidebar #sidebar-main .sidebar-block #categoriesMenu .nav-pills .nav-link, .main-content .sidebar .left-sidebar-canvas #sidebar-main .sidebar-block #categoriesMenu .nav-pills .nav-link, .main-content .sidebar-canvas .left-sidebar #sidebar-main .sidebar-block #categoriesMenu .nav-pills .nav-link, .main-content .sidebar-canvas .left-sidebar-canvas #sidebar-main .sidebar-block #categoriesMenu .nav-pills .nav-link, .main-content .filter-toggle .left-sidebar #sidebar-main .sidebar-block #categoriesMenu .nav-pills .nav-link, .main-content .filter-toggle .left-sidebar-canvas #sidebar-main .sidebar-block #categoriesMenu .nav-pills .nav-link {
-  font: 400 14px/26px Poppins, Helvetica, sans-serif;
+  font: 400 14px/26px Oswald, Helvetica, sans-serif;
   color: #666;
   padding: 0;
 }
@@ -3248,7 +3248,7 @@ nav .breadcrumb li.breadcrumb-item + .breadcrumb-item:before {
   vertical-align: middle;
 }
 .main-content .sidebar .left-sidebar #sidebar-main .sidebar-block .sidebar-widget-option label, .main-content .sidebar .left-sidebar-canvas #sidebar-main .sidebar-block .sidebar-widget-option label, .main-content .sidebar-canvas .left-sidebar #sidebar-main .sidebar-block .sidebar-widget-option label, .main-content .sidebar-canvas .left-sidebar-canvas #sidebar-main .sidebar-block .sidebar-widget-option label, .main-content .filter-toggle .left-sidebar #sidebar-main .sidebar-block .sidebar-widget-option label, .main-content .filter-toggle .left-sidebar-canvas #sidebar-main .sidebar-block .sidebar-widget-option label {
-  font: 400 14px/26px Poppins, Helvetica, sans-serif;
+  font: 400 14px/26px Oswald, Helvetica, sans-serif;
   color: #666;
   margin: 0;
 }
@@ -3285,7 +3285,7 @@ nav .breadcrumb li.breadcrumb-item + .breadcrumb-item:before {
   background: none;
 }
 .main-content .sidebar .left-sidebar #sidebar-product .widget-title, .main-content .sidebar .left-sidebar-canvas #sidebar-product .widget-title, .main-content .sidebar-canvas .left-sidebar #sidebar-product .widget-title, .main-content .sidebar-canvas .left-sidebar-canvas #sidebar-product .widget-title, .main-content .filter-toggle .left-sidebar #sidebar-product .widget-title, .main-content .filter-toggle .left-sidebar-canvas #sidebar-product .widget-title {
-  font: 500 18px/20px Poppins, Helvetica, sans-serif;
+  font: 500 18px/20px Oswald, Helvetica, sans-serif;
   margin: 0 0 15px;
   text-align: left;
   color: #000;
@@ -3813,7 +3813,7 @@ nav .breadcrumb li.breadcrumb-item + .breadcrumb-item:before {
   margin: 0 0 10px;
 }
 .block-category .title-category {
-  font: 400 18px/24px Poppins, Helvetica, sans-serif;
+  font: 400 18px/24px Oswald, Helvetica, sans-serif;
   color: #000;
   margin: 0 0 10px;
 }
@@ -3979,7 +3979,7 @@ nav .breadcrumb li.breadcrumb-item + .breadcrumb-item:before {
   opacity: 1;
 }
 .tab-content .tab-pane#list .thumb-description .description {
-  font: 400 14px/22px Poppins, Helvetica, sans-serif;
+  font: 400 14px/22px Oswald, Helvetica, sans-serif;
   color: #666;
   float: left;
   width: 100%;
@@ -4072,7 +4072,7 @@ nav .breadcrumb {
   }
 }
 nav .breadcrumb li {
-  font: 400 18px/30px Poppins, Helvetica, sans-serif;
+  font: 400 18px/30px Oswald, Helvetica, sans-serif;
   color: #fff;
 }
 @media (max-width: 543px) {
@@ -4103,7 +4103,7 @@ nav .breadcrumb li.breadcrumb-item + .breadcrumb-item:before {
 @media (max-width: 991px) {
   .main-content .sidebar .left-sidebar .title a, .main-content .sidebar .left-sidebar-canvas .title a, .main-content .sidebar-canvas .left-sidebar .title a, .main-content .sidebar-canvas .left-sidebar-canvas .title a, .main-content .filter-toggle .left-sidebar .title a, .main-content .filter-toggle .left-sidebar-canvas .title a {
     color: #000;
-    font: 500 18px/20px Poppins, Helvetica, sans-serif;
+    font: 500 18px/20px Oswald, Helvetica, sans-serif;
   }
 }
 @media (max-width: 543px) {
@@ -4152,7 +4152,7 @@ nav .breadcrumb li.breadcrumb-item + .breadcrumb-item:before {
   padding-bottom: 0;
 }
 .main-content .sidebar .left-sidebar #sidebar-main .sidebar-block .widget-title, .main-content .sidebar .left-sidebar-canvas #sidebar-main .sidebar-block .widget-title, .main-content .sidebar-canvas .left-sidebar #sidebar-main .sidebar-block .widget-title, .main-content .sidebar-canvas .left-sidebar-canvas #sidebar-main .sidebar-block .widget-title, .main-content .filter-toggle .left-sidebar #sidebar-main .sidebar-block .widget-title, .main-content .filter-toggle .left-sidebar-canvas #sidebar-main .sidebar-block .widget-title {
-  font: 500 18px/20px Poppins, Helvetica, sans-serif;
+  font: 500 18px/20px Oswald, Helvetica, sans-serif;
   text-align: left;
   position: relative;
   margin: 0;
@@ -4229,7 +4229,7 @@ nav .breadcrumb li.breadcrumb-item + .breadcrumb-item:before {
   border-color: #000;
 }
 .main-content .sidebar .left-sidebar #sidebar-main .sidebar-block #categoriesMenu .nav-pills .nav-link, .main-content .sidebar .left-sidebar-canvas #sidebar-main .sidebar-block #categoriesMenu .nav-pills .nav-link, .main-content .sidebar-canvas .left-sidebar #sidebar-main .sidebar-block #categoriesMenu .nav-pills .nav-link, .main-content .sidebar-canvas .left-sidebar-canvas #sidebar-main .sidebar-block #categoriesMenu .nav-pills .nav-link, .main-content .filter-toggle .left-sidebar #sidebar-main .sidebar-block #categoriesMenu .nav-pills .nav-link, .main-content .filter-toggle .left-sidebar-canvas #sidebar-main .sidebar-block #categoriesMenu .nav-pills .nav-link {
-  font: 400 14px/26px Poppins, Helvetica, sans-serif;
+  font: 400 14px/26px Oswald, Helvetica, sans-serif;
   color: #666;
   padding: 0;
 }
@@ -4249,7 +4249,7 @@ nav .breadcrumb li.breadcrumb-item + .breadcrumb-item:before {
   vertical-align: middle;
 }
 .main-content .sidebar .left-sidebar #sidebar-main .sidebar-block .sidebar-widget-option label, .main-content .sidebar .left-sidebar-canvas #sidebar-main .sidebar-block .sidebar-widget-option label, .main-content .sidebar-canvas .left-sidebar #sidebar-main .sidebar-block .sidebar-widget-option label, .main-content .sidebar-canvas .left-sidebar-canvas #sidebar-main .sidebar-block .sidebar-widget-option label, .main-content .filter-toggle .left-sidebar #sidebar-main .sidebar-block .sidebar-widget-option label, .main-content .filter-toggle .left-sidebar-canvas #sidebar-main .sidebar-block .sidebar-widget-option label {
-  font: 400 14px/26px Poppins, Helvetica, sans-serif;
+  font: 400 14px/26px Oswald, Helvetica, sans-serif;
   color: #666;
   margin: 0;
 }
@@ -4286,7 +4286,7 @@ nav .breadcrumb li.breadcrumb-item + .breadcrumb-item:before {
   background: none;
 }
 .main-content .sidebar .left-sidebar #sidebar-product .widget-title, .main-content .sidebar .left-sidebar-canvas #sidebar-product .widget-title, .main-content .sidebar-canvas .left-sidebar #sidebar-product .widget-title, .main-content .sidebar-canvas .left-sidebar-canvas #sidebar-product .widget-title, .main-content .filter-toggle .left-sidebar #sidebar-product .widget-title, .main-content .filter-toggle .left-sidebar-canvas #sidebar-product .widget-title {
-  font: 500 18px/20px Poppins, Helvetica, sans-serif;
+  font: 500 18px/20px Oswald, Helvetica, sans-serif;
   margin: 0 0 15px;
   text-align: left;
   color: #000;
@@ -4829,7 +4829,7 @@ nav .breadcrumb li.breadcrumb-item + .breadcrumb-item:before {
   text-decoration: none;
 }
 .product-deatils-section .right-columm .product-information .description {
-  font: 400 14px/22px Poppins, Helvetica, sans-serif;
+  font: 400 14px/22px Oswald, Helvetica, sans-serif;
   color: #666;
   margin: 0 0 15px;
 }
@@ -4848,12 +4848,12 @@ nav .breadcrumb li.breadcrumb-item + .breadcrumb-item:before {
   margin: 0 0 15px;
 }
 .product-deatils-section .right-columm .product-information .price .regular-price {
-  font: 500 18px/20px Poppins, Helvetica, sans-serif;
+  font: 500 18px/20px Oswald, Helvetica, sans-serif;
   padding: 0 10px 0 0;
   color: #000;
 }
 .product-deatils-section .right-columm .product-information .price .old-price {
-  font: 300 14px/20px Poppins, Helvetica, sans-serif;
+  font: 300 14px/20px Oswald, Helvetica, sans-serif;
   color: #666;
   text-decoration: line-through;
 }
@@ -5028,7 +5028,7 @@ nav .breadcrumb li.breadcrumb-item + .breadcrumb-item:before {
 }
 .product-tab-area .tabs .nav-item .nav-link .tab-title {
   color: #666;
-  font: 600 16px/18px Poppins, Helvetica, sans-serif;
+  font: 600 16px/18px Oswald, Helvetica, sans-serif;
 }
 .product-tab-area .tab-content .ttbanner .column-right h1 {
   font-size: 60px;
@@ -5094,7 +5094,7 @@ nav .breadcrumb li.breadcrumb-item + .breadcrumb-item:before {
   background: #f5f5f5;
 }
 .product-tab-area .tab-content .reviews-tab .ttreview-tab h2 {
-  font: 500 16px/18px Poppins, Helvetica, sans-serif;
+  font: 500 16px/18px Oswald, Helvetica, sans-serif;
 }
 .product-tab-area .tab-content .reviews-tab .ttreview-tab .review-title {
   margin: 0 0 10px;
@@ -5112,14 +5112,14 @@ nav .breadcrumb li.breadcrumb-item + .breadcrumb-item:before {
   vertical-align: middle;
 }
 .product-tab-area .tab-content .reviews-tab .ttreview-tab .review-desc {
-  font: 400 14px/22px Poppins, Helvetica, sans-serif;
+  font: 400 14px/22px Oswald, Helvetica, sans-serif;
   color: #666;
 }
 .product-tab-area .tab-content .reviews-tab .ttreview-tab .rating {
   margin: 0 0 10px;
 }
 .product-tab-area .tab-content .reviews-tab .rating-form h5 {
-  font: 500 16px/18px Poppins, Helvetica, sans-serif;
+  font: 500 16px/18px Oswald, Helvetica, sans-serif;
 }
 .product-tab-area .tab-content .reviews-tab .rating-form .rating {
   margin: 0 0 10px;
@@ -5371,7 +5371,7 @@ nav .breadcrumb li.breadcrumb-item + .breadcrumb-item:before {
   border-radius: 0;
 }
 .order-inner .card-title {
-  font: 400 20px/22px Poppins, Helvetica, sans-serif;
+  font: 400 20px/22px Oswald, Helvetica, sans-serif;
   color: #000;
 }
 .order-inner #order-confirmation .card-block p {
@@ -5596,7 +5596,7 @@ nav .breadcrumb li.breadcrumb-item + .breadcrumb-item:before {
 }
 
 .left-sidebar .widget-title {
-  font: 500 18px/20px Poppins, Helvetica, sans-serif;
+  font: 500 18px/20px Oswald, Helvetica, sans-serif;
   margin: 0 0 15px;
   color: #000;
 }
@@ -5996,7 +5996,7 @@ body {
   letter-spacing: 1px;
   line-height: 20px;
   font-size: 13px;
-  font-family: Poppins, Helvetica, sans-serif;
+  font-family: Oswald, Helvetica, sans-serif;
   color: #666;
 }
 
@@ -6110,7 +6110,7 @@ body {
 }
 .header-area .ttheader-mail a {
   color: #fff;
-  font: 300 13px/18px Poppins, Helvetica, sans-serif;
+  font: 300 13px/18px Oswald, Helvetica, sans-serif;
   padding: 14px 0 14px 25px;
   position: relative;
   float: right;
@@ -6270,7 +6270,7 @@ body {
     text-align: left;
     position: relative;
     font-size: 14px;
-    font-family: Poppins, Helvetica, sans-serif;
+    font-family: Oswald, Helvetica, sans-serif;
     font-weight: 400;
     text-transform: capitalize !important;
   }
@@ -6399,7 +6399,7 @@ body {
 }
 .navbar .navbar-nav .nav-item.more_menu .menu-dropdown li a {
   padding: 5px 20px !important;
-  font: 400 14px/16px Poppins, Helvetica, sans-serif;
+  font: 400 14px/16px Oswald, Helvetica, sans-serif;
   text-transform: capitalize !important;
   color: #666;
 }
@@ -6586,7 +6586,7 @@ body {
   list-style: none;
 }
 .header-right > div.user-info #user-dropdown ul li a, .header-right > div.user-info #user-dropdown div li a {
-  font: 400 13px/16px Poppins, Helvetica, sans-serif;
+  font: 400 13px/16px Oswald, Helvetica, sans-serif;
   text-decoration: none;
 }
 .header-right > div.user-info:hover i {
@@ -6701,7 +6701,7 @@ body {
   font-size: 14px;
 }
 .header-right > div.cart-wrapper #cart-dropdown ul .table tr td.product-name a {
-  font: 400 14px/18px Poppins, Helvetica, sans-serif;
+  font: 400 14px/18px Oswald, Helvetica, sans-serif;
   color: #666;
   float: left;
   width: 100%;
@@ -6709,12 +6709,12 @@ body {
 }
 .header-right > div.cart-wrapper #cart-dropdown ul .table tr td.product-name .price {
   padding: 0 0 0 5px;
-  font: 500 14px/16px Poppins, Helvetica, sans-serif;
+  font: 500 14px/16px Oswald, Helvetica, sans-serif;
 }
 .header-right > div.cart-wrapper #cart-dropdown ul .table tr td.product-name .cart-qty {
   float: left;
   padding: 0;
-  font: 500 14px/19px Poppins, Helvetica, sans-serif;
+  font: 500 14px/19px Oswald, Helvetica, sans-serif;
 }
 .header-right > div.cart-wrapper #cart-dropdown li {
   list-style: none;
@@ -6863,7 +6863,7 @@ body {
   }
 }
 .slider-wrapper .slider .owl-item .slider-content-wrap .slider-subtitle {
-  font: 900 80px/100px Poppins, Helvetica, sans-serif;
+  font: 900 80px/100px Oswald, Helvetica, sans-serif;
   position: relative;
   letter-spacing: 1px;
   text-transform: capitalize;
@@ -7309,7 +7309,7 @@ body {
   padding: 0;
   background: none;
   border: none;
-  font: 400 13px/24px Poppins, Helvetica, sans-serif;
+  font: 400 13px/24px Oswald, Helvetica, sans-serif;
   color: #666;
   letter-spacing: 1px;
 }
@@ -7348,7 +7348,7 @@ body {
   margin: 0 10px 0 0;
 }
 .header-area .toggle div ul li span {
-  font: 400 13px/20px Poppins, Helvetica, sans-serif;
+  font: 400 13px/20px Oswald, Helvetica, sans-serif;
   color: #666;
   cursor: pointer;
 }
@@ -7892,7 +7892,7 @@ body {
   -ms-transition: transform 400ms ease-in-out 0s;
 }
 .contact span {
-  font: 400 14px/22px Poppins, Helvetica, sans-serif;
+  font: 400 14px/22px Oswald, Helvetica, sans-serif;
   color: #666;
 }
 .contact:hover i {
@@ -7953,7 +7953,7 @@ body {
   margin: 0 0 5px 0;
 }
 #ttcmsfooterservice .ttservice .service-content .service-desc {
-  font: 300 14px/20px Poppins, Helvetica, sans-serif;
+  font: 300 14px/20px Oswald, Helvetica, sans-serif;
   color: #fff;
 }
 
@@ -8036,7 +8036,7 @@ body {
 
 .ttheader-service {
   color: #fff;
-  font: 300 13px/18px Poppins, Helvetica, sans-serif;
+  font: 300 13px/18px Oswald, Helvetica, sans-serif;
   padding: 14px 0 14px 25px;
   position: relative;
 }
@@ -8107,7 +8107,7 @@ body {
   color: #000;
 }
 #category-products .ttproduct-cat-item .tt_cat_content .description .desc {
-  font: 400 14px/18px Poppins, Helvetica, sans-serif;
+  font: 400 14px/18px Oswald, Helvetica, sans-serif;
 }
 
 @media (min-width: 544px) {
@@ -8127,7 +8127,7 @@ body {
   z-index: -1;
 }
 #ttcmsaboutus .ttcmsaboutus .ttcmsabout-desc {
-  font: 300 15px/24px Poppins, Helvetica, sans-serif;
+  font: 300 15px/24px Oswald, Helvetica, sans-serif;
   padding: 0 40px;
 }
 @media (max-width: 543px) {
@@ -8158,7 +8158,7 @@ body {
 }
 #ttcmsaboutus .ttcmsaboutus .ttcmsabout-desc .ttabout-subtitle {
   padding: 10px 15px;
-  font: 400 16px/20px Poppins, Helvetica, sans-serif;
+  font: 400 16px/20px Oswald, Helvetica, sans-serif;
   color: #000;
 }
 #ttcmsaboutus .ttcmsaboutus .ttcmsabout-desc .ttabout-subtitle:after {
@@ -8337,12 +8337,12 @@ body {
   margin: 15px 0 0;
 }
 #ttcmsservice .ttserviceblock .ttservice-wrap .service .content .service-title {
-  font: 500 16px/24px Poppins, Helvetica, sans-serif;
+  font: 500 16px/24px Oswald, Helvetica, sans-serif;
   color: #fff;
   padding: 0 0 5px;
 }
 #ttcmsservice .ttserviceblock .ttservice-wrap .service .content .service-desc {
-  font: 400 14px/18px Poppins, Helvetica, sans-serif;
+  font: 400 14px/18px Oswald, Helvetica, sans-serif;
   color: #e8e8e8;
 }
 
@@ -8872,7 +8872,7 @@ body {
   padding: 8px 18px;
 }
 .layout5 #hometab .tabs .nav-tabs .nav-item .nav-link .tab-title {
-  font: 400 16px/20px Poppins, Helvetica, sans-serif;
+  font: 400 16px/20px Oswald, Helvetica, sans-serif;
   text-transform: capitalize;
 }
 .layout5 #hometab .tabs .nav-tabs .nav-item:first-child:after {
@@ -8930,7 +8930,7 @@ body {
   padding: 20px 0;
 }
 .layout5 #ttcmssubbanner .container .ttbanner .ttbanner-inner .ttbanner-desc .subtitle {
-  font: 400 14px/18px Poppins, Helvetica, sans-serif;
+  font: 400 14px/18px Oswald, Helvetica, sans-serif;
 }
 .layout5 #ttcmssubbanner .container .ttbanner .ttbanner-inner .ttbanner-desc .shop-now {
   margin: 0;
