@@ -1,7 +1,37 @@
+body {
+    font-family: Poppins, Helvetica, sans-serif;
+}
+
+.navbar{
+    padding: 2rem;
+    width: 100%;
+    position: absolute;
+    z-index: 1020;
+}
+
+.grid img {
+    width: 100%;
+}
+
+/* fluid 5 columns */
+.grid-sizer,
+.grid-item {
+    width: 20%;
+}
+
+.grid-item.gigante {
+    width: 60%;
+}
+
+/* 2 columns */
+.grid-item--width2 {
+    width: 40%;
+}
+
 .video-background-holder {
     position: relative;
     background-color: black;
-    height: calc(100vh - 72px);
+    height: 100vh;
     min-height: 25rem;
     width: 100%;
     overflow: hidden;
