@@ -4,6 +4,9 @@ var $grid = $('.grid').masonry({
     itemSelector: '.grid-item',
     stagger: 2
 });
+$grid.imagesLoaded().progress(function () {
+    $grid.masonry('layout');
+});
 
 // change size of item by toggling gigante class
 $grid.on('click', '.grid-item', function () {
@@ -13,7 +16,7 @@ $grid.on('click', '.grid-item', function () {
 });
 
 var typed = new Typed('#typed', {
-    stringsElement: '#typed-strings',
+    strings: ['^1000 100% local', '^1000 100% sustainable', '^1000 100% cotton'],
     typeSpeed: 100,
     backSpeed: 75,
     smartBackspace: false,
