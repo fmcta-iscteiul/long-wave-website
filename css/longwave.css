@@ -3,9 +3,6 @@ body {
 }
 
 .navbar{
-    padding: 2rem;
-    width: 100%;
-    position: absolute;
     z-index: 1020;
 }
 
@@ -19,13 +16,13 @@ body {
     width: 20%;
 }
 
-.grid-item.gigante {
-    width: 60%;
-}
-
 /* 2 columns */
 .grid-item--width2 {
     width: 40%;
+}
+
+.grid-item.gigante {
+    width: 60%;
 }
 
 .video-background-holder {

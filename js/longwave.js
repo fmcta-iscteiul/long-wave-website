@@ -12,11 +12,10 @@ $grid.on('click', '.grid-item', function () {
     $grid.masonry('layout');
 });
 
-var options = {
-    strings: ['This is an example of a typing effect', 'It can be used to create cool animated text', 'You can customize the speed, pauses, and more'],
-    typeSpeed: 50,
-    backSpeed: 50,
+var typed = new Typed('#typed', {
+    stringsElement: '#typed-strings',
+    typeSpeed: 100,
+    backSpeed: 75,
+    smartBackspace: false,
     loop: true
-};
-
-var typed = new Typed('.typing-effect', options);
+});
