@@ -1,0 +1,57 @@
+@font-face {
+    font-family: 'Longwave';
+    src: url('/branding/font/Eina/Eina01-Bold.ttf') format('truetype');
+    font-weight: bolder;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Longwave';
+    src: url('/branding/font/Eina/Eina01-BoldItalic.ttf') format('truetype');
+    font-weight: bolder;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Longwave';
+    src: url('/branding/font/Eina/Eina01-Light.ttf') format('truetype');
+    font-weight: lighter;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'Longwave';
+    src: url('/branding/font/Eina/Eina01-LightItalic.ttf') format('truetype');
+    font-weight: lighter;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Longwave';
+    src: url('/branding/font/Eina/Eina01-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Longwave';
+    src: url('/branding/font/Eina/Eina01-RegularItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Longwave';
+    src: url('/branding/font/Eina/Eina01-SemiBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Longwave';
+    src: url('/branding/font/Eina/Eina01-SemiboldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+

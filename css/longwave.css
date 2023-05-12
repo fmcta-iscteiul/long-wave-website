@@ -1,8 +1,10 @@
 body {
-    font-family: Poppins, Helvetica, sans-serif;
+    font-family: Longwave, Helvetica, sans-serif;
+    font-weight: lighter;
+    font-style: normal;
 }
 
-.navbar{
+.navbar {
     z-index: 1020;
 }
 
@@ -61,6 +63,6 @@ body {
     height: 100%;
     width: 100%;
     background-color: black;
-    opacity: 0.5;
+    opacity: 0.25;
     z-index: 1;
 }
