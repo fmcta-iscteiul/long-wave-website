@@ -4,6 +4,7 @@ var $grid = $('.grid').masonry({
     itemSelector: '.grid-item',
     stagger: 2
 });
+
 $grid.imagesLoaded().progress(function () {
     $grid.masonry('layout');
 });

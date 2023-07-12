@@ -8,6 +8,10 @@ body {
     z-index: 1020;
 }
 
+.grid {
+    margin: 5rem 0;
+}
+
 .grid img {
     width: 100%;
 }
