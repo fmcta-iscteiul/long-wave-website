@@ -4,7 +4,12 @@ body {
     font-style: normal;
 }
 
-.piece-header{
+#content {
+    margin-top: 4rem;
+}
+
+.piece-header {
+    text-decoration: overline;
     font-weight: bold;
 }
 
