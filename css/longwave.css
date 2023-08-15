@@ -8,6 +8,11 @@ body {
     margin-top: 4rem;
 }
 
+#purchaseCTA{
+    display: flex;
+    justify-content: center;
+}
+
 .piece-header {
     text-decoration: overline;
     font-weight: bold;
@@ -18,7 +23,8 @@ body {
 }
 
 .grid {
-    margin: 5rem 0;
+    margin-bottom: 6rem;
+    margin-top: 2.5rem;
 }
 
 .grid img {
