@@ -8,13 +8,14 @@ body {
     margin-top: 4rem;
 }
 
-#purchaseCTA{
+#purchaseCTA {
     display: flex;
+    margin-left: 0.5rem;
     justify-content: center;
 }
 
-.piece-header {
-    text-decoration: overline;
+.piece-header text {
+    border-top: 0.3rem solid black;
     font-weight: bold;
 }
 
